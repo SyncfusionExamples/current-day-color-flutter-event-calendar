@@ -4,6 +4,8 @@ A quick-start example to help you to customize the current day color in the Flut
 
 You can customize the today highlight color of calendar by using the [todayHighlightColor](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/SfCalendar/todayHighlightColor.html) property in calendar, which will highlight the today text in calendar view header, month cell, and agenda view.
 
+![Todayhighlight](https://user-images.githubusercontent.com/46158936/204810132-61e0c8f9-ad3a-487e-8689-4219ce17112d.gif)
+
 ## Requirements to run the demo
 * [VS Code](https://code.visualstudio.com/download)
 * [Flutter SDK v1.22+](https://flutter.dev/docs/development/tools/sdk/overview)
